@@ -1,6 +1,8 @@
 # IPL-Project-use-data-visualization
 The IPL Project uses data visualization to analyze team performance, player stats, and match trends through charts and dashboards, helping identify key patterns, top performers, and winning strategies.
 set clear objectives
+<img width="1536" height="1024" alt="ChatGPT Image Oct 5, 2025, 11_58_44 PM" src="https://github.com/user-attachments/assets/ce3ad815-1c6c-41b3-80d9-def81e4cd6c7" />
+
 Pick 2–4 questions the project must answer (e.g., top run-scorers, impact of toss, venue advantage, predicting match winners).
 
 Collect data
